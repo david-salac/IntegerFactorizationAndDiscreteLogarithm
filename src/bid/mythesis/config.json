@@ -1,0 +1,7 @@
+{
+    "RECEIVE_URL": "http://www.mythesis.bid/task.php",
+    "TRANSMIT_URL": "http://www.mythesis.bid/solution.php",
+    "STATION_ID": 1,
+    "MSIEVE_MOD_BIN": "/home/addmin/Downloads/Diplomka/modBuild/msieve",
+    "MSIEVE_MOD_PARAM": "-q"
+}
