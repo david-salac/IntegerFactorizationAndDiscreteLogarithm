@@ -49,3 +49,6 @@ Far fewer methods are available for effective (sub-exponential) solving of
 this problem. They are even less stable. This repository presents Index
 Calculus method and other less effective methods (like Baby-step Giant-step
 method, Silver-Pohling-Hellman method). 
+
+## About software
+The application serves as a primitive task queue and worker for solving these problems. Be aware of some possible security risks related with using this software.
