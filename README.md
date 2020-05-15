@@ -51,4 +51,9 @@ Calculus method and other less effective methods (like Baby-step Giant-step
 method, Silver-Pohling-Hellman method). 
 
 ## About software
-The application serves as a primitive task queue and worker for solving these problems. Be aware of some possible security risks related with using this software.
+The application serves as a primitive task queue and worker for solving
+these problems. Be aware of some possible security risks related with
+using this software.
+
+The message broker for this application is available in as a PHP application
+in the [repository here](https://github.com/david-salac/InterfaceIntFacDL).
